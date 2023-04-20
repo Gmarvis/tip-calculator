@@ -1,10 +1,7 @@
 
 let getTip = document.querySelector('button')
 let amount = document.getElementById('amount')
-
 console.log(amount)
-
-
 
 getTip.addEventListener( 'click' , function (){
     let percentage = document.getElementById('percentage')
@@ -16,7 +13,7 @@ getTip.addEventListener( 'click' , function (){
 
     tip = tAmount * perctn/100
     console.log(tip)
-    document.querySelector('p').innerText="Your Tip Is "+tip
+    document.querySelector('p').innerText="Tip "+tip
 } )
 
 
