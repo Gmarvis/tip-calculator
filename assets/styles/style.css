@@ -33,55 +33,55 @@ input {
 }
 
 h2 {
-    margin: 10% 0 5px;
-    text-transform: uppercase;
-    text-align: center;
-    font-family: anton;
-    letter-spacing: 1.5px;
-    color: #1e0b22;
+  margin: 10% 0 5px;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: anton;
+  letter-spacing: 1.5px;
+  color: #1e0b22;
 }
 
 p {
-    margin: 20px;
-    border: 1px solid #ffffff;
-    padding: 5px;
-    text-transform: uppercase;
-    color: #fff;
-    font-size: larger;
+  margin: 20px;
+  border: 1px solid #ffffff;
+  padding: 5px;
+  text-transform: uppercase;
+  color: #fff;
+  font-size: larger;
 }
 
 ins {
-    margin-top: 10px;
+  margin-top: 10px;
 }
 
 button {
-    width: 10;
-    font-size: 18px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 5px;
-    border: none;
-    color: #fff;
-    background-color: #690869;
-    border-radius: 5px;
-    text-transform: uppercase;
-    box-shadow: 1px 1px #f7f1f7;
-    transition: .3s ease-in;
+  width: 10;
+  font-size: 18px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  border: none;
+  color: #fff;
+  background-color: #690869;
+  border-radius: 5px;
+  text-transform: uppercase;
+  box-shadow: 1px 1px #f7f1f7;
+  transition: .3s ease-in;
 
 }
 
 button:hover {
-    padding: 6px;
-    border: none;
-    color: #ffffff;
-    background-color: #3b1942;
-    text-transform: uppercase;
-    box-shadow: 1px 1px #fcfcfc;
+  padding: 6px;
+  border: none;
+  color: #ffffff;
+  background-color: #3b1942;
+  text-transform: uppercase;
+  box-shadow: 1px 1px #fcfcfc;
 }
 
 @media screen and (max-width:770px) {
-    .main-container {
-        width: 90vw;
-    }
-    
+ .main-container {
+    width: 90vw;
+  }
+  
 }
